@@ -1,5 +1,4 @@
 const userModel = require("../models/user.model")
-// const nodemailer = require("nodemailer")
 const jwt = require("jsonwebtoken") 
 require("dotenv").config()
 
